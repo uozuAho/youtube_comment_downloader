@@ -1,0 +1,885 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "9bZ1KGtqmSO6lNioaRglYlKYkOw",
+  "nextPageToken": "QURTSl9pMlFYWXdVdDRoX1VadzhGUHhwbnM5czFUc1pOaFItZm9ZNjZVYTFwdUhkb1k1ZEdISEZuWUp3V0xobjdVUHExQ1hvczF3S2JoMWdUdjVwWFFUZzhzeFR0VVkwN0E=",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "erOFNKA5-NPCectOCbAKS01U_38",
+      "id": "UgxzMPm4zYUY4F6xv2Z4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EYbvE0uYY_icUSM9cwrNAU3LQmM",
+          "id": "UgxzMPm4zYUY4F6xv2Z4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "If you like what I do please consider throwing me a bit of money on Patreon, check out the tiers and benefits here: \u003ca href=\"https://www.patreon.com/pixeladay\"\u003ehttps://www.patreon.com/pixeladay\u003c/a\u003e",
+            "textOriginal": "If you like what I do please consider throwing me a bit of money on Patreon, check out the tiers and benefits here: https://www.patreon.com/pixeladay",
+            "authorDisplayName": "Pixel a Day",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+            "authorChannelId": {
+              "value": "UCRmZM0WpKzSu_27unPuyEZA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 22,
+            "publishedAt": "2022-12-16T09:27:45Z",
+            "updatedAt": "2022-12-16T09:27:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "K0_7_IJGKhz6glIlVU_fT02qArw",
+      "id": "UgwfADKJ7jZlSD0bk394AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aIknIpswjhJLDNBIoILPSUHf5cc",
+          "id": "UgwfADKJ7jZlSD0bk394AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "Paradise killer&#39;s is not an allegory for capitalism it&#39;s an allegory for communism and the way make slaves out of the lesser classes.",
+            "textOriginal": "Paradise killer's is not an allegory for capitalism it's an allegory for communism and the way make slaves out of the lesser classes.",
+            "authorDisplayName": "TheEverFreeKing",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT1ZFdQwYs0HQ-hxmiFMeQcXlz-82AzU5tS_LNiVpI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcciAQ8WVtM0nHr66gIMsAA",
+            "authorChannelId": {
+              "value": "UCcciAQ8WVtM0nHr66gIMsAA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-06T06:35:09Z",
+            "updatedAt": "2023-08-06T06:35:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "Gx0fkKqrN1iGM_71brq4iQnnQCk",
+            "id": "UgwfADKJ7jZlSD0bk394AaABAg.9t3TvVKLcHK9t68MWQnOMx",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "Not sure how you figured that bud.\u003cbr\u003eOli Clarke Smith, co-founder of Kaizen Game Works and creative director on Paradise Killer:\u003cbr\u003e&quot;The game has anti-capitalist, anti-establishment system, and anti-discrimination themes.&quot;\u003cbr\u003e&quot;Obviously the modern world has a very explicit slavery problem but it can also be more insidious. We are all under the yoke of debt and capitalism. The elite try to create an illusion that this is what happiness is but the horrors of modern society are plain to see all around us.&quot;\u003cbr\u003e&quot;Vaporwave has an anti-capitalist energy and intent that punk could never have as bands had to sell records in a capitalist marketplace with the blessing of record companies....We believe very strongly that the world is broken. Capitalism and religion don’t work, governments have failed society and people are in pain. It is important to remember that in Paradise Killer, you are one of the bad guys. The Syndicate are trying to resurrect alien gods that want to drown the universe in a sea of blood. The gods exist only to satisfy their own whims, much like the wealthy and powerful in our own society. By embracing vaporwave aesthetics and themes we can shine a critical light on the Syndicate and thus hold a mirror up to our own society without being preachy to the player.&quot;",
+              "textOriginal": "Not sure how you figured that bud.\nOli Clarke Smith, co-founder of Kaizen Game Works and creative director on Paradise Killer:\n\"The game has anti-capitalist, anti-establishment system, and anti-discrimination themes.\"\n\"Obviously the modern world has a very explicit slavery problem but it can also be more insidious. We are all under the yoke of debt and capitalism. The elite try to create an illusion that this is what happiness is but the horrors of modern society are plain to see all around us.\"\n\"Vaporwave has an anti-capitalist energy and intent that punk could never have as bands had to sell records in a capitalist marketplace with the blessing of record companies....We believe very strongly that the world is broken. Capitalism and religion don’t work, governments have failed society and people are in pain. It is important to remember that in Paradise Killer, you are one of the bad guys. The Syndicate are trying to resurrect alien gods that want to drown the universe in a sea of blood. The gods exist only to satisfy their own whims, much like the wealthy and powerful in our own society. By embracing vaporwave aesthetics and themes we can shine a critical light on the Syndicate and thus hold a mirror up to our own society without being preachy to the player.\"",
+              "parentId": "UgwfADKJ7jZlSD0bk394AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-08-07T07:24:26Z",
+              "updatedAt": "2023-08-07T07:24:26Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EdS4qaz-oX7TY5vGVmp_XjNSaMw",
+      "id": "Ugxo1xlDZ5J3dzE49FB4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "n2mTrGpiN-GtcNYI9UwIl-rSmLM",
+          "id": "Ugxo1xlDZ5J3dzE49FB4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "Love the art I&#39;m seeing here. Reminds me ever so slightly of Abyss Odyssey. The art style is different (uh... South American Art Nouveau?), but together with the character concepts it jumped a spark. Eldritch horror but whimsical, and so casual that it can become almost-but-not-quite familiar.",
+            "textOriginal": "Love the art I'm seeing here. Reminds me ever so slightly of Abyss Odyssey. The art style is different (uh... South American Art Nouveau?), but together with the character concepts it jumped a spark. Eldritch horror but whimsical, and so casual that it can become almost-but-not-quite familiar.",
+            "authorDisplayName": "Arashmickey",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSSZZhGs1DNH1bMtmPFgE8Qzp6qCAcfxsNsBesmLg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYN6Q0U78VPqFTXPhZXJFkA",
+            "authorChannelId": {
+              "value": "UCYN6Q0U78VPqFTXPhZXJFkA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-03T00:59:33Z",
+            "updatedAt": "2023-08-03T00:59:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UlE3iR9OkOekNX6k3Fm1YUolMkU",
+      "id": "UgysKgLh0-D1BV11Kh54AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GTm3iqSqvcLVivEx7cB4Fka27Zw",
+          "id": "UgysKgLh0-D1BV11Kh54AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "Bought the game halfway through the review, did not disappoint.",
+            "textOriginal": "Bought the game halfway through the review, did not disappoint.",
+            "authorDisplayName": "TheMovingEye",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSLdQt9cOq2FXSyQOeEjv5GMUKNk9IyybR2Ig=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMvRRgd5clIUiUPdCahLvaA",
+            "authorChannelId": {
+              "value": "UCMvRRgd5clIUiUPdCahLvaA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-07-15T13:58:14Z",
+            "updatedAt": "2023-07-15T13:58:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "7Mdpfr-ehkgtluhtqtxiEnMZOr8",
+            "id": "UgysKgLh0-D1BV11Kh54AaABAg.9sBc8bQ01yn9sE36SmkhFL",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "Love to hear it!",
+              "textOriginal": "Love to hear it!",
+              "parentId": "UgysKgLh0-D1BV11Kh54AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-07-16T12:41:05Z",
+              "updatedAt": "2023-07-16T12:41:05Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "s_obKXtw66L5tz14QE17I_QdRwo",
+      "id": "UgyPfgx4zHqG-Q7fBGN4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-5y9SUyc_7mbNjd98_zIQ5a7f-c",
+          "id": "UgyPfgx4zHqG-Q7fBGN4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "I love that when henry tells lady love dies that THEY are the bad guys, she just seems like... unable to process it, like the mere suggestion that her lifestyle is fundamentally evil just... doesnt register.\u003cbr\u003eWhat finally hammered the idea that LLD is a bad person is how she killed her two best friends in thousands of years, and her reactions didnt went beyond &quot;you souldnt had done that haha now Im going to walk everywhere or drive the car myself&quot;",
+            "textOriginal": "I love that when henry tells lady love dies that THEY are the bad guys, she just seems like... unable to process it, like the mere suggestion that her lifestyle is fundamentally evil just... doesnt register.\nWhat finally hammered the idea that LLD is a bad person is how she killed her two best friends in thousands of years, and her reactions didnt went beyond \"you souldnt had done that haha now Im going to walk everywhere or drive the car myself\"",
+            "authorDisplayName": "Stray Orion",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSNU7X-uy4uLNdWf-dwqeuJiDaM5rn5ZEt28A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCv1TqF9ggZpuziIDKMRVJpQ",
+            "authorChannelId": {
+              "value": "UCv1TqF9ggZpuziIDKMRVJpQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-07-02T02:33:58Z",
+            "updatedAt": "2023-07-02T02:55:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "Gcf6kJNBombCirRXA_fG_JSYpuU",
+            "id": "UgyPfgx4zHqG-Q7fBGN4AaABAg.9rdvVPltmGg9reyMI28BiP",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "I KNOW RIGHT XD",
+              "textOriginal": "I KNOW RIGHT XD",
+              "parentId": "UgyPfgx4zHqG-Q7fBGN4AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-07-02T12:18:10Z",
+              "updatedAt": "2023-07-02T12:18:10Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AVjbiKozfGsf5HYYRKEDQufN-9E",
+      "id": "UgzR_2BtFu_mY6j2qup4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QcgjYOx-JOQraTVGqaewNmfM9cw",
+          "id": "UgzR_2BtFu_mY6j2qup4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "something something late stage capitalism",
+            "textOriginal": "something something late stage capitalism",
+            "authorDisplayName": "Greg Huffman",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRZoWQdWJ1xi7a6caFbPBXXrPAKuy2RGoVMzJye=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOBXHPdVUPi08ZPSV0hMkgg",
+            "authorChannelId": {
+              "value": "UCOBXHPdVUPi08ZPSV0hMkgg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-06-18T04:12:14Z",
+            "updatedAt": "2023-06-18T04:12:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3dgRA7GI5UQG-Z-ZfFgUUvWOL5g",
+      "id": "Ugz8ZT3iX7iB5h9Tnrh4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Yzp_IkPzsHtJdUkD6HZQ0mmgXyc",
+          "id": "Ugz8ZT3iX7iB5h9Tnrh4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "Great video, paradise killer is a masterpiece",
+            "textOriginal": "Great video, paradise killer is a masterpiece",
+            "authorDisplayName": "Wiktor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSjNVawFie0KyLJMv2lUrftFBpUyT4WpaLQAi_UbQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCj4aeiN_lJsxmvYzT5R4rlQ",
+            "authorChannelId": {
+              "value": "UCj4aeiN_lJsxmvYzT5R4rlQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-06-14T23:31:13Z",
+            "updatedAt": "2023-06-14T23:31:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Z3boVGxcNE_WMferKjNQCU1lwCI",
+      "id": "UgxVBLCNTuzueS9GNe94AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xBV4rS6DoSCqOfeVeF79mLYpxMo",
+          "id": "UgxVBLCNTuzueS9GNe94AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "gosh what a game! I highly recommend! you become so attached to the map I didn’t want to leave when the game ended lol",
+            "textOriginal": "gosh what a game! I highly recommend! you become so attached to the map I didn’t want to leave when the game ended lol",
+            "authorDisplayName": "AmnEdits",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaToT4T8iDcqCOsVhjW8CpMJ8kGtUPGdXNz1wFKE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHE6WUV-F5NP0-DPYH-N8Xg",
+            "authorChannelId": {
+              "value": "UCHE6WUV-F5NP0-DPYH-N8Xg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-06-11T11:23:32Z",
+            "updatedAt": "2023-06-11T11:23:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Vt0k6lTn6UVChFS0JBhEFssmaD0",
+      "id": "UgxQhtAuGj3GauSW5ml4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zA8Xf6xnaSR8jPmO1wD93Ylwx4M",
+          "id": "UgxQhtAuGj3GauSW5ml4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "You need your flowers for this video- \u003cb\u003eOH MY FUCKING GODDD\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eSo beautifully done 💕💕",
+            "textOriginal": "You need your flowers for this video- *OH MY FUCKING GODDD*\n\nSo beautifully done 💕💕",
+            "authorDisplayName": "TDoThis",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/WqcV8NsdZzm7hRUpuUziBqBD18Oh-kAdbKOvuRUqdMK1clvwTGQpgMuNK7eDhTZMz3YFNDhP=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC74iqelc662gybFSf5x5x1w",
+            "authorChannelId": {
+              "value": "UC74iqelc662gybFSf5x5x1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-06-08T14:19:21Z",
+            "updatedAt": "2023-06-08T14:19:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "niZYQFqOqNuAGccJcdQfEe9HOQU",
+      "id": "UgyNyn78-j73abaJZfB4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZObxrbRh9DKv0_FkYfLIDyLixc0",
+          "id": "UgyNyn78-j73abaJZfB4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "&quot;It&#39;s easier to imagine the end of the world than the end of capitalism.&quot;",
+            "textOriginal": "\"It's easier to imagine the end of the world than the end of capitalism.\"",
+            "authorDisplayName": "StrikerT",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTVG9pn4jAah0GxriO2VEM4d5L8tLkw7Zlc5pNLBw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWwq2oioXZfW0V-9FW2yMmQ",
+            "authorChannelId": {
+              "value": "UCWwq2oioXZfW0V-9FW2yMmQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-26T23:43:44Z",
+            "updatedAt": "2023-05-26T23:43:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "w6LXbyjgSrbl8twVTCva6yycx7g",
+      "id": "UgzfQZ4QpovNvp_1YCF4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bLMQgWSq6OcMwIEIMl12x0mdEnY",
+          "id": "UgzfQZ4QpovNvp_1YCF4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "I loved this video.  I just played the console release of Paradise Killer and was profoundly affected by it.  So I found myself looking for a good video essay and found yours.  Any video that makes me read Ursula K. Le Guin already grabs my attention, but it also unlocked the memory that I&#39;d read this story back in middle school.  I&#39;d forgotten the name of the story or the author, but I never forgot the premise that a lone child was suffering for the greater good of their community...\u003cbr\u003e\u003cbr\u003eAnyway, I thought your video was up there in quality with the YouTubers who have hundreds of thousands of subscribers.  I look forward to watching more of your videos and I hope that your channel, like Paradise Killer, gets the recognition it deserves.",
+            "textOriginal": "I loved this video.  I just played the console release of Paradise Killer and was profoundly affected by it.  So I found myself looking for a good video essay and found yours.  Any video that makes me read Ursula K. Le Guin already grabs my attention, but it also unlocked the memory that I'd read this story back in middle school.  I'd forgotten the name of the story or the author, but I never forgot the premise that a lone child was suffering for the greater good of their community...\n\nAnyway, I thought your video was up there in quality with the YouTubers who have hundreds of thousands of subscribers.  I look forward to watching more of your videos and I hope that your channel, like Paradise Killer, gets the recognition it deserves.",
+            "authorDisplayName": "pjz987",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQgt08X_SQIHV0-KFMi2EV-0hL2t2A9JE4q6ZmynJmSo4Uly1U752M0GG2bLLco=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsSJvG4kqqXblLYbid920oQ",
+            "authorChannelId": {
+              "value": "UCsSJvG4kqqXblLYbid920oQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-21T15:45:51Z",
+            "updatedAt": "2023-05-21T15:45:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "SdqjmC5SS19xlIVXCdDc_WSxhpQ",
+            "id": "UgzfQZ4QpovNvp_1YCF4AaABAg.9pzBjeFTGw59q2S49rJekn",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "Thank you so much! I hope you stick around on the channel &lt;3",
+              "textOriginal": "Thank you so much! I hope you stick around on the channel \u003c3",
+              "parentId": "UgzfQZ4QpovNvp_1YCF4AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-05-23T07:25:33Z",
+              "updatedAt": "2023-05-23T07:25:33Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vv6juZB7xYW78L5hLNBxYJm3VYM",
+      "id": "Ugz3NxAa_MZwAec09DZ4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YsMWzgoekUT_Kd4SUYbW3IrUd4o",
+          "id": "Ugz3NxAa_MZwAec09DZ4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "This is a good vid.  Thanks for describing this morally ambiguous/corrupt game. ",
+            "textOriginal": "This is a good vid.  Thanks for describing this morally ambiguous/corrupt game. ",
+            "authorDisplayName": "Rahul Shah",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTURd5dhtKjz7kXD6nLIbqzuYqA3W8J1f3VwABegQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYLg_1T9VM5813HihvWqoUw",
+            "authorChannelId": {
+              "value": "UCYLg_1T9VM5813HihvWqoUw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-19T05:29:20Z",
+            "updatedAt": "2023-05-19T05:29:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "tzTSQWbLk2XywkV2f77tAx0WWwE",
+            "id": "Ugz3NxAa_MZwAec09DZ4AaABAg.9pswaKfEJzV9ptbwOadkK-",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "Wow, someone actually used the tip function on Youtube!! I&#39;d forgotten it existed! Thank you so much :)",
+              "textOriginal": "Wow, someone actually used the tip function on Youtube!! I'd forgotten it existed! Thank you so much :)",
+              "parentId": "Ugz3NxAa_MZwAec09DZ4AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-05-19T11:48:04Z",
+              "updatedAt": "2023-05-19T11:48:04Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NILi_XrbtprwIp66hYygjQMqhXw",
+      "id": "Ugybrjk4Jor1jGkWcTt4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HWH457zCA5ZkRTFhFZlUs4Hbv6M",
+          "id": "Ugybrjk4Jor1jGkWcTt4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "very glad i came across this video, finally gave me true closure on the game. played it almost two years ago, without a doubt one of my most favourite detective games, the freedom of investigation it gives you is fantastic, but i could never shake the feeling that the ending was just uninspired. as i went through the trial i was waiting for that &quot;ok so when do i get to dismantle the syndicate? the ghosts, henry and shinji make it pretty obvious the syndicate is not great and i agree with them&quot; moment, but no, there&#39;s no turnaround, no real victory to speak of. your video made me understand that it wasn&#39;t laziness on the writers&#39; part, that was the intended outcome, the return of the status quo. my mistake was in misreading love dies&#39;s character: i may not believe that this paradise is worth it but she&#39;s team syndicate all the way, not even the (potential) loss of her friends who just wanted out is enough to sway her.",
+            "textOriginal": "very glad i came across this video, finally gave me true closure on the game. played it almost two years ago, without a doubt one of my most favourite detective games, the freedom of investigation it gives you is fantastic, but i could never shake the feeling that the ending was just uninspired. as i went through the trial i was waiting for that \"ok so when do i get to dismantle the syndicate? the ghosts, henry and shinji make it pretty obvious the syndicate is not great and i agree with them\" moment, but no, there's no turnaround, no real victory to speak of. your video made me understand that it wasn't laziness on the writers' part, that was the intended outcome, the return of the status quo. my mistake was in misreading love dies's character: i may not believe that this paradise is worth it but she's team syndicate all the way, not even the (potential) loss of her friends who just wanted out is enough to sway her.",
+            "authorDisplayName": "Alexey Terentev",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaS0DVK1Q3ZaOGD3N4uYP1-pBL82mYwnFrKaTQnA-w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1nB6nwVYHvMWPmIJeR_BwQ",
+            "authorChannelId": {
+              "value": "UC1nB6nwVYHvMWPmIJeR_BwQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-05T18:15:16Z",
+            "updatedAt": "2023-05-05T18:15:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "qrC9I1ALfs06LC_io4-uD2NjN-4",
+            "id": "Ugybrjk4Jor1jGkWcTt4AaABAg.9pLG6zSs5vP9pP_sBAgvCN",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "It would have been so easy for them to create a comforting ending where the system is destroyed and the slaves are freed, but the devs withheld that and I love them so much for it :) Glad you got something out of the video!",
+              "textOriginal": "It would have been so easy for them to create a comforting ending where the system is destroyed and the slaves are freed, but the devs withheld that and I love them so much for it :) Glad you got something out of the video!",
+              "parentId": "Ugybrjk4Jor1jGkWcTt4AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-05-07T10:33:34Z",
+              "updatedAt": "2023-05-07T10:33:34Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hXLXlILq-KhmSePffVaPkQNE3-o",
+      "id": "UgzkPzbWM95Ok0D2Je54AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EDR6qk41GqEZQqC365tIc6gVNYI",
+          "id": "UgzkPzbWM95Ok0D2Je54AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "Saw this game on PS Plus, finished it in a day with all evidence and everything necessary. Stayed up all night. Seriously, love it so much. I was also a sucker for Touch Detective and CrimeLabs growing up, but I cannot find any other game like this. It was so different and really hope the game developers are working on something else!",
+            "textOriginal": "Saw this game on PS Plus, finished it in a day with all evidence and everything necessary. Stayed up all night. Seriously, love it so much. I was also a sucker for Touch Detective and CrimeLabs growing up, but I cannot find any other game like this. It was so different and really hope the game developers are working on something else!",
+            "authorDisplayName": "chill out",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/RgeZ0aeASOjfQcaI9a4KR6wS0yMZkugLzXb0QMQYouFc6Rd-AbRIJ0rr-MP-HqKnWOQUaqolKA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCO0gsb5gsGvoaO88PaDOGaA",
+            "authorChannelId": {
+              "value": "UCO0gsb5gsGvoaO88PaDOGaA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-04-29T10:40:22Z",
+            "updatedAt": "2023-04-29T10:40:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "KKLgSkcYMxtkpHOT2I6bk_bkhoI",
+            "id": "UgzkPzbWM95Ok0D2Je54AaABAg.9p5-HyCkBC19pCBW98ZZdO",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "Hope you enjoyed the video! I&#39;m impressed with your dedication, it&#39;s not a short game XD",
+              "textOriginal": "Hope you enjoyed the video! I'm impressed with your dedication, it's not a short game XD",
+              "parentId": "UgzkPzbWM95Ok0D2Je54AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-05-02T05:41:50Z",
+              "updatedAt": "2023-05-02T05:41:50Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jVg9SX7osLKbeJmBHstTJtRDF24",
+      "id": "UgzhmXSLYIn7vMIe9M14AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "t0iVLLya5ctZ1s5M4GzU5NtRVNc",
+          "id": "UgzhmXSLYIn7vMIe9M14AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "This is the first video I&#39;ve seen on this channel and I&#39;m looking forward to checking out more! Something I think it worth noting about the doomed cycles of paradise is that the Syndicate already \u003cb\u003eknow\u003c/b\u003e Perfect 25 won&#39;t be successful either. There are literally in-game conversations about it. But they can&#39;t or won&#39;t do anything about it. They&#39;d rather pretend that everything will somehow turn out right next time than address the problems they&#39;re fully aware of.",
+            "textOriginal": "This is the first video I've seen on this channel and I'm looking forward to checking out more! Something I think it worth noting about the doomed cycles of paradise is that the Syndicate already *know* Perfect 25 won't be successful either. There are literally in-game conversations about it. But they can't or won't do anything about it. They'd rather pretend that everything will somehow turn out right next time than address the problems they're fully aware of.",
+            "authorDisplayName": "sam c",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQ6aHMLLCj5zSBPmi00cqPzlPor50KJRW2bKg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCc9cH8d2ga0O_onLWRm3nvg",
+            "authorChannelId": {
+              "value": "UCc9cH8d2ga0O_onLWRm3nvg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-04-17T16:19:24Z",
+            "updatedAt": "2023-04-18T08:52:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "19U7VIWOh6jAp4j-boS2Q46rRr0",
+            "id": "UgzhmXSLYIn7vMIe9M14AaABAg.9obhYcq5bYm9odBwBjvGtQ",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "Thanks for your comment and I&#39;m glad you enjoyed the vid. Hope you stick around on the channel :)",
+              "textOriginal": "Thanks for your comment and I'm glad you enjoyed the vid. Hope you stick around on the channel :)",
+              "parentId": "UgzhmXSLYIn7vMIe9M14AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2023-04-18T06:12:52Z",
+              "updatedAt": "2023-04-18T06:12:52Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "opgAAPBvqp721wBt5CMzQtT5BHM",
+      "id": "Ugx69bzibE4A4Kk1Mu54AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "E2jKXVC1RIH5faJlJGYZVdIvyzE",
+          "id": "Ugx69bzibE4A4Kk1Mu54AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "You don&#39;t need a utopia. The simple conveniences of A civilisation does the trick, as evidenced in the real world right now.",
+            "textOriginal": "You don't need a utopia. The simple conveniences of A civilisation does the trick, as evidenced in the real world right now.",
+            "authorDisplayName": "BvsMAcosh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQJeJoIhj95CXGEfA2rHYYa6Eu-rLyKol4VxJ_z=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCspMgg2vmk5yHYt6Xqt7RaA",
+            "authorChannelId": {
+              "value": "UCspMgg2vmk5yHYt6Xqt7RaA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-04-14T22:24:14Z",
+            "updatedAt": "2023-04-14T22:24:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YCOWxrJm5QBe7IQgsY09njTDZ60",
+      "id": "UgxnoZEpX0XVgRCjeu94AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ph9B853lUVGCLEdnwN3Z8WSYOL0",
+          "id": "UgxnoZEpX0XVgRCjeu94AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "This was fantastic, thank you very much",
+            "textOriginal": "This was fantastic, thank you very much",
+            "authorDisplayName": "D B",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT5L8P9fn6f0tR9Y3zuH_2jv9VeWL9-aUSePygIKW8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBNnoCrHFDRh3JTM0GbDyzQ",
+            "authorChannelId": {
+              "value": "UCBNnoCrHFDRh3JTM0GbDyzQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-04-13T11:49:25Z",
+            "updatedAt": "2023-04-13T11:49:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "x6PoQT2n9kif-h3W2Uth-FQgGIM",
+            "id": "UgxnoZEpX0XVgRCjeu94AaABAg.9oRvTep1O6W9oUWfCl_y5M",
+            "snippet": {
+              "videoId": "QYijbqLSqL8",
+              "textDisplay": "Thanks for watching!",
+              "textOriginal": "Thanks for watching!",
+              "parentId": "UgxnoZEpX0XVgRCjeu94AaABAg",
+              "authorDisplayName": "Pixel a Day",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSy3t0vpTQqjty332hWhTIz3XjiT5vD-PDbtW50=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCRmZM0WpKzSu_27unPuyEZA",
+              "authorChannelId": {
+                "value": "UCRmZM0WpKzSu_27unPuyEZA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-04-14T12:01:39Z",
+              "updatedAt": "2023-04-14T12:01:39Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "f3awlEeVL0gRBkoOf2rYpVPNzZg",
+      "id": "Ugx97M_M1fjm-KWvHIx4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LW90WoM3jzk_Tad20lZI1NJKaeE",
+          "id": "Ugx97M_M1fjm-KWvHIx4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "can&#39;t decide if talking about spiritual death of mice to a freaking Rain World soundtrack is hilarious or disturbing (because, of course, Rain World also talks about &quot;spiritual death&quot; but in a very different way)\u003cbr\u003e\u003cbr\u003eBoth mouse experiment and literary &#39;utopias&#39; seem to be consistently missing that we really need something to live for, and turns out even mice need their life to be intresting and fulfilling. Is it a christian thing, comfort is inherently sinful so all our brains revolve around finding new ways to justify that? \u003cbr\u003e\u003cbr\u003eA box with mice and food is NOT an utopia. In no way it discredits the idea of post-scarcity, or somehow proves inherent immorality of comfort, or automatically makes every win a zero-sum. \u003cbr\u003e\u003cbr\u003eI remember a short story by Greg Egan about a woman in a post-scarcity society somewhere in endless &quot;New Territories&quot;. it her took thousand of years to find friends she trusted enough to talk about her fear of swimming. That&#39;s just a small slice, but perhaps a more honest approach to the Utopia.",
+            "textOriginal": "can't decide if talking about spiritual death of mice to a freaking Rain World soundtrack is hilarious or disturbing (because, of course, Rain World also talks about \"spiritual death\" but in a very different way)\n\nBoth mouse experiment and literary 'utopias' seem to be consistently missing that we really need something to live for, and turns out even mice need their life to be intresting and fulfilling. Is it a christian thing, comfort is inherently sinful so all our brains revolve around finding new ways to justify that? \n\nA box with mice and food is NOT an utopia. In no way it discredits the idea of post-scarcity, or somehow proves inherent immorality of comfort, or automatically makes every win a zero-sum. \n\nI remember a short story by Greg Egan about a woman in a post-scarcity society somewhere in endless \"New Territories\". it her took thousand of years to find friends she trusted enough to talk about her fear of swimming. That's just a small slice, but perhaps a more honest approach to the Utopia.",
+            "authorDisplayName": "dervish candela",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSPkNo5-4KStDHx959lvQAgjdxdCwL0HLWh6PKJkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjd-0QvOdx7z665wEoJ3syQ",
+            "authorChannelId": {
+              "value": "UCjd-0QvOdx7z665wEoJ3syQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-04-04T09:03:42Z",
+            "updatedAt": "2023-04-04T09:16:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "N6HJ7h1T8mcgFokQPfxrojXsi8w",
+      "id": "UgwzFn_-I9uDgM3tZPp4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iJAIn7mAL7-b02MklwySIHqo4Xc",
+          "id": "UgwzFn_-I9uDgM3tZPp4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "YESSSS PARADISE KILLER CONTENT",
+            "textOriginal": "YESSSS PARADISE KILLER CONTENT",
+            "authorDisplayName": "Funk McLovin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaROzVxuBvlCfON_cV8vpu1F-P8gUrIfak58ZuKaEA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIyu12_DBaAkDfFq-UQuHNw",
+            "authorChannelId": {
+              "value": "UCIyu12_DBaAkDfFq-UQuHNw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-03-26T04:49:37Z",
+            "updatedAt": "2023-03-26T04:49:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TIWOoBnU3Ysp76jSzXzAGUYec6E",
+      "id": "UgxbadrY3kXwO88WsEN4AaABAg",
+      "snippet": {
+        "videoId": "QYijbqLSqL8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RRGU7BU416JwXNsIjY8QQWLRMD8",
+          "id": "UgxbadrY3kXwO88WsEN4AaABAg",
+          "snippet": {
+            "videoId": "QYijbqLSqL8",
+            "textDisplay": "There&#39;s an anime that also drinks from that mouse experiment: Texhnolyze",
+            "textOriginal": "There's an anime that also drinks from that mouse experiment: Texhnolyze",
+            "authorDisplayName": "Alex Vinicius",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSg1cEH1JT7BOxqQb-0IsaWJF8tEAd52JEd335w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWGcNfljtdSR305B-nRRkZQ",
+            "authorChannelId": {
+              "value": "UCWGcNfljtdSR305B-nRRkZQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-03-03T19:35:27Z",
+            "updatedAt": "2023-03-03T19:35:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

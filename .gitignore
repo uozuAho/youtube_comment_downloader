@@ -1,0 +1,7 @@
+.venv
+.secrets
+*.csv
+*.xlsx
+dist
+build
+dl.spec
